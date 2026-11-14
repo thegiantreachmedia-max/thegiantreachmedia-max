@@ -14,7 +14,11 @@
 
 **I build software products and business systems that solve practical problems.**
 
-[Portfolio](https://www.thegiantreach.com/portfolio) · [Website](https://www.thegiantreach.com) · [LinkedIn](https://www.linkedin.com/in/opeyemiakinremi/) · [X](https://x.com/realopeyemi_dev) · [Email](mailto:opeyemi@thegiantreach.com)
+<a href="https://www.thegiantreach.com/portfolio"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.thegiantreach.com"><img src="https://img.shields.io/badge/Website-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+<a href="https://www.linkedin.com/in/opeyemiakinremi/"><img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
+<a href="https://x.com/realopeyemi_dev"><img src="https://img.shields.io/badge/X-0F172A?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+<a href="mailto:opeyemi@thegiantreach.com"><img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>
 
 </div>
 
@@ -73,12 +77,14 @@ I choose tools based on the requirements of the product, with an emphasis on mai
 
 I'm interested in meaningful conversations about software engineering, SaaS, product development, and technology for business operations.
 
-- **Website:** [thegiantreach.com](https://www.thegiantreach.com)
-- **Portfolio:** [thegiantreach.com/portfolio](https://www.thegiantreach.com/portfolio)
-- **LinkedIn:** [Opeyemi Akinremi](https://www.linkedin.com/in/opeyemiakinremi/)
-- **X:** [@realopeyemi_dev](https://x.com/realopeyemi_dev)
-- **Instagram:** [@opeyemi.dev](https://www.instagram.com/opeyemi.dev)
-- **Email:** [opeyemi@thegiantreach.com](mailto:opeyemi@thegiantreach.com)
+<p>
+  <a href="https://www.thegiantreach.com"><img src="https://img.shields.io/badge/Website-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+  <a href="https://www.thegiantreach.com/portfolio"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/opeyemiakinremi/"><img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
+  <a href="https://x.com/realopeyemi_dev"><img src="https://img.shields.io/badge/X-111827?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://www.instagram.com/opeyemi.dev"><img src="https://img.shields.io/badge/Instagram-111827?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram" /></a>
+  <a href="mailto:opeyemi@thegiantreach.com"><img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>
+</p>
 
 ---
 
