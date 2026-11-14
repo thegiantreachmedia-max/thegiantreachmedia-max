@@ -15,9 +15,6 @@
 **I build software products and business systems that solve practical problems.**
 
 <a href="https://www.thegiantreach.com/portfolio"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-<a href="https://www.thegiantreach.com"><img src="https://img.shields.io/badge/Website-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
-<a href="https://www.linkedin.com/in/opeyemiakinremi/"><img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
-<a href="https://x.com/realopeyemi_dev"><img src="https://img.shields.io/badge/X-0F172A?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
 <a href="mailto:opeyemi@thegiantreach.com"><img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>
 
 </div>
@@ -48,7 +45,6 @@ Explore selected product and application work, including project context and pre
 <p>
   <img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=nodedotjs&logoColor=339933" alt="Node.js" />
   <img src="https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" />
   <img src="https://img.shields.io/badge/Supabase-111827?style=for-the-badge&logo=supabase&logoColor=3ECF8E" alt="Supabase" />
   <img src="https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
@@ -67,9 +63,7 @@ I choose tools based on the requirements of the product, with an emphasis on mai
 - Build secure, maintainable foundations.
 - Prefer useful functionality over unnecessary complexity.
 
-## GitHub Activity
-
-### Currently building
+## Currently Building
 
 - **[VisaByte](https://visabyte.thegiantreach.com)** — SaaS for study-abroad and visa consultancy firms.
 - **[Convertly](https://github.com/thegiantreachmedia-max/convertly-showcase)** — WhatsApp-based B2B sales automation.
