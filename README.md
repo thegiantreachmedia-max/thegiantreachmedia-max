@@ -47,13 +47,14 @@ Explore selected product and application work, including project context and pre
 
 <p>
   <img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
   <img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=next.js&logoColor=FFFFFF" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=nodedotjs&logoColor=339933" alt="Node.js" />
+  <img src="https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" />
   <img src="https://img.shields.io/badge/Supabase-111827?style=for-the-badge&logo=supabase&logoColor=3ECF8E" alt="Supabase" />
   <img src="https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Vercel-111827?style=for-the-badge&logo=vercel&logoColor=FFFFFF" alt="Vercel" />
-  <img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
+  <img src="https://img.shields.io/badge/Render-111827?style=for-the-badge&logo=render&logoColor=46E3B7" alt="Render" />
+  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
 </p>
 
 I choose tools based on the requirements of the product, with an emphasis on maintainability, performance, and a good developer and user experience.
@@ -68,10 +69,11 @@ I choose tools based on the requirements of the product, with an emphasis on mai
 
 ## GitHub Activity
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=thegiantreachmedia-max&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thegiantreachmedia-max&layout=compact&hide_border=true&theme=transparent" alt="Most used programming languages" />
-</div>
+### Currently building
+
+- **[VisaByte](https://visabyte.thegiantreach.com)** — SaaS for study-abroad and visa consultancy firms.
+- **[Convertly](https://github.com/thegiantreachmedia-max/convertly-showcase)** — WhatsApp-based B2B sales automation.
+- **[TGR GA4 API](https://github.com/thegiantreachmedia-max/tgr-ga4-api)** — Server-side Google Analytics 4 reporting API.
 
 ## Let's Connect
 
