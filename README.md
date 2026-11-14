@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./github-banner.png" width="100%" alt="Opeyemi Akinremi — Full-Stack Software Engineer">
+</p>
 <!--
   Developer showcase — Opeyemi Akinremi
   Keep project links and technology claims aligned with work that is publicly shareable.
